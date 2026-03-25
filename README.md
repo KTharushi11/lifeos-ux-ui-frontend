@@ -1,28 +1,33 @@
-# LifeOS – UX/UI + Frontend Case Study
+# 🚀 LifeOS – UX-Focused Frontend Case Study
 
-A UX-driven productivity app designed and developed to improve task visibility and simplify daily management.
+A UX-driven productivity mobile app designed to improve task visibility and simplify daily management.
 
-LifeOS is a smart student productivity app that helps users manage tasks and habits in one place with clarity and ease.
+LifeOS is a smart student productivity app that helps users manage tasks and habits in one place with clarity, simplicity, and ease.
 
 ---
 
 ## 👨‍💻 My Role
 
-UI/UX Designer + Frontend Developer
-Focused on creating a simple, user-friendly experience and implementing it using Flutter.
+**UX-Focused Frontend Developer**
+
+Focused on designing simple, user-friendly experiences and implementing them using Flutter.
 
 ---
 
 ## 🚨 Problem
 
 Students often use multiple apps to manage tasks, habits, and reminders.
-This leads to missed deadlines, confusion, and lack of consistency.
+
+This leads to:
+- Missed deadlines  
+- Confusion between apps  
+- Lack of consistency in daily planning  
 
 ---
 
 ## 🎯 Goal
 
-To design a simple and intuitive system that allows users to manage their daily activities in one place without complexity.
+To design a simple and intuitive system that allows users to manage daily activities in one place without complexity.
 
 ---
 
@@ -30,70 +35,89 @@ To design a simple and intuitive system that allows users to manage their daily 
 
 ### 🔍 Research Insights
 
-After analyzing user behavior, I found that:
+After analyzing user behavior, I identified that:
 
-* Users forget tasks due to poor visibility
-* Switching between multiple apps creates confusion
-* Users prefer simplicity over feature-heavy apps
+- Users forget tasks due to poor visibility  
+- Switching between multiple apps creates confusion  
+- Users prefer simplicity over feature-heavy apps  
 
 ---
 
 ### 🔁 User Flow
 
-I designed a simple flow to minimize user effort:
+A simplified flow was designed to minimize user effort:
 
 Login → Dashboard → Add Task → Set Reminder → Save → View Tasks → Complete Task
-
-
 
 ---
 
 ### ✏️ Wireframes
 
-I created low-fidelity wireframes to focus on layout and usability before visual design.
+Low-fidelity wireframes were created to focus on:
+- Layout structure  
+- Usability  
+- Clear user flow  
 
-
+before moving into visual design.
 
 ---
 
 ### 🎨 UI Design
 
-The final UI focuses on clarity, minimalism, and ease of use.
-The design uses minimal colors, clear typography, and consistent spacing to improve usability.
-
-
+The final UI focuses on:
+- Clarity and minimalism  
+- Easy readability  
+- Consistent spacing and typography  
+- A distraction-free user experience  
 
 ---
 
 ## ⭐ Key Features
 
-* Unified dashboard for tasks and habits
-* Quick task creation with minimal steps
-* Clean and distraction-free interface
+- Unified dashboard for tasks and habits  
+- Quick task creation with minimal steps  
+- Clean and distraction-free interface  
 
 ---
 
-## 🧪 Usability Improvements
+## 🧪 UX Improvements (Before vs After)
 
-Based on testing and review:
+- Before: Users could interact with incomplete inputs  
+  After: Buttons are disabled until input is complete  
 
-* Repositioned the "Add Task" button for better accessibility
-* Simplified navigation to reduce user confusion
+- Before: No feedback after actions  
+  After: Success and error messages added  
+
+- Before: Navigation could feel confusing  
+  After: Simplified and structured user flow  
+
+- Before: Important actions were less accessible  
+  After: "Add Task" button repositioned for better accessibility  
+
+---
+
+## 📱 App Screens
+
 
 ---
 
 ## 💻 Frontend Implementation
 
-I implemented the design using Flutter, translating UX decisions into a functional and user-friendly interface.
+Implemented using Flutter, translating UX decisions into a functional and user-friendly mobile interface.
+
+---
+
+## 🛠️ Tech Stack
+
+- Flutter (Dart)
 
 ---
 
 ## 🔗 Figma Design
 
 
-
 ---
 
 ## 🚀 Project Status
 
-Ongoing – continuously improving both UX and frontend implementation
+Ongoing — continuously improving both UX and frontend implementation.
