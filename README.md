@@ -98,7 +98,6 @@ The final UI focuses on:
 
 ## 📱 App Screens
 
-
 ---
 
 ## 💻 Frontend Implementation
@@ -115,6 +114,7 @@ Implemented using Flutter, translating UX decisions into a functional and user-f
 
 ## 🔗 Figma Design
 
+https://www.figma.com/design/ZWgX4IPyq6WRefYsKgq3IA/lifeos?node-id=0-1&t=sBpIhWx4HPqsPjL7-1
 
 ---
 
